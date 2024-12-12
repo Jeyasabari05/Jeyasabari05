@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Jeyasabari S</b>, and I'm an <b>Aspiring Software Developer</b> 🚀. I enjoy coding, solving problems, and building projects that make life easier!</p>
+<p align="left">My name is <b>Jeyasabari S</b>, and I'm an <b>Aspiring Software Developer</b>. I enjoy coding, solving problems, and building projects that make life easier!</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">💻 I Code With</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
@@ -46,9 +46,9 @@
 ###
 
 <ul align="left">
-  <li>🔢 <b>Stopwatch Application:</b> A simple web-based stopwatch with start, stop, and reset functionalities</li>
-  <li>🎮 <b>Tic Tac Toe Game:</b> A fun and interactive two-player game built with HTML, CSS, and JavaScript</li>
-  <li>🧮 <b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations</li>
+  <li><b>Stopwatch Application:</b> A simple web-based stopwatch with start, stop, and reset functionalities</li>
+  <li><b>Tic Tac Toe Game:</b> A fun and interactive two-player game built with HTML, CSS, and JavaScript</li>
+  <li><b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations</li>
 </ul>
 
 ###
@@ -82,7 +82,7 @@
 
 ###
 
-<h2 align="left">👀 Profile Views</h2>
+<h2 align="left">Profile Views</h2>
 
 ###
 
@@ -92,5 +92,5 @@
 
 ---
 
-<p align="left"> **Thank you for visiting my profile!** 🙌 Let's connect and build something amazing together! 🚀
+<p align="left"> **Thank you for visiting my profile!** Let's connect and build something amazing together! 
 </p>
