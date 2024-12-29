@@ -55,7 +55,7 @@
 <ul align="left">
   <li><b>Stopwatch Application:</b> A web-based stopwatch with start, stop, and reset functionalities.</li>
   <li><b>Tic Tac Toe Game:</b> A fun, interactive two-player game built with HTML, CSS, and JavaScript.</li>
-  <li><b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations.></li>
+  <li><b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations.</li>
 </ul>
 
 ###
