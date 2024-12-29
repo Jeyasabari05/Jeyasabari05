@@ -14,6 +14,13 @@
   <li>✨ <b>Creating bugs since:</b> 2022</li>
   <li>📚 <b>Currently learning:</b> React and sharpening my problem-solving skills on LeetCode</li>
   <li>🎯 <b>Goals:</b> To contribute to open-source projects and build impactful web applications</li>
+  <li>🏆 <b>Achievements:</b> 
+    <ul>
+      <li>100 Days of Coding Badge on LeetCode (200+ problems solved)</li>
+      <li>3-Star Coder on HackerRank</li>
+      <li>Certified in Python and Problem Solving (HackerRank)</li>
+    </ul>
+  </li>
   <li>🎲 <b>Fun fact:</b> Debugging feels like solving a mystery puzzle to me!</li>
 </ul>
 
@@ -46,9 +53,9 @@
 ###
 
 <ul align="left">
-  <li><b>Stopwatch Application:</b> A simple web-based stopwatch with start, stop, and reset functionalities</li>
-  <li><b>Tic Tac Toe Game:</b> A fun and interactive two-player game built with HTML, CSS, and JavaScript</li>
-  <li><b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations</li>
+  <li><b>Stopwatch Application:</b> A web-based stopwatch with start, stop, and reset functionalities. <a href="https://github.com/Jeyasabari05/stopwatch">[GitHub]</a></li>
+  <li><b>Tic Tac Toe Game:</b> A fun, interactive two-player game built with HTML, CSS, and JavaScript. <a href="https://github.com/Jeyasabari05/tic-tac-toe">[GitHub]</a></li>
+  <li><b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations. <a href="https://github.com/Jeyasabari05/simple-calculator">[GitHub]</a></li>
 </ul>
 
 ###
@@ -92,5 +99,4 @@
 
 ---
 
-<p align="left"> **Thank you for visiting my profile!** Let's connect and build something amazing together! 
-</p>
+<p align="left"><b>Thank you for visiting my profile!</b> Let's connect and build something amazing together!</p>
