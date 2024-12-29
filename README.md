@@ -53,9 +53,9 @@
 ###
 
 <ul align="left">
-  <li><b>Stopwatch Application:</b> A web-based stopwatch with start, stop, and reset functionalities. <a href="https://github.com/Jeyasabari05/stopwatch">[GitHub]</a></li>
-  <li><b>Tic Tac Toe Game:</b> A fun, interactive two-player game built with HTML, CSS, and JavaScript. <a href="https://github.com/Jeyasabari05/tic-tac-toe">[GitHub]</a></li>
-  <li><b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations. <a href="https://github.com/Jeyasabari05/simple-calculator">[GitHub]</a></li>
+  <li><b>Stopwatch Application:</b> A web-based stopwatch with start, stop, and reset functionalities. <a href="[https://github.com/Jeyasabari05/stopwatch](https://github.com/Jeyasabari05/Stopwatch-by-css)">[GitHub]</a></li>
+  <li><b>Tic Tac Toe Game:</b> A fun, interactive two-player game built with HTML, CSS, and JavaScript. <a href="[https://github.com/Jeyasabari05/tic-tac-toe](https://github.com/Jeyasabari05/Tic-tac-toe-game)">[GitHub]</a></li>
+  <li><b>Simple Calculator:</b> A beginner-friendly calculator for basic arithmetic operations. <a href="[https://github.com/Jeyasabari05/simple-calculator](https://github.com/Jeyasabari05/Simple-Calculator-app)">[GitHub]</a></li>
 </ul>
 
 ###
