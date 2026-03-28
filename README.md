@@ -79,9 +79,3 @@ Python-based interactive game focusing on logic and user interaction.
 - IoT-integrated applications  
 - Full-stack platforms with practical use cases  
 
----
-
-## Connect
-- LinkedIn: https://www.linkedin.com/in/jeyasabari05  
-- LeetCode: https://leetcode.com/u/Jai_17177/  
-- GitHub: https://github.com/Jeyasabari05  
