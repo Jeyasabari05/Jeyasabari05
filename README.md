@@ -18,28 +18,17 @@ Building software systems that integrate with real-world applications, including
 
 ## Tech Stack
 
-<table align="center">
-<tr>
-<td><b>Frontend</b></td>
-<td>HTML • CSS • JavaScript • React • MUI</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js • Express.js</td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td>MySQL</td>
-</tr>
-<tr>
-<td><b>Deployment</b></td>
-<td>Render</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>Git • GitHub • Firebase • Arduino IDE</td>
-</tr>
-</table>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,arduino" />
+<br><br>
+
+<b>Deployment:</b> Render
+
+</p>
 
 ---
 
@@ -89,3 +78,10 @@ Python-based interactive game focusing on logic and user interaction.
 - Backend systems with structured architecture  
 - IoT-integrated applications  
 - Full-stack platforms with practical use cases  
+
+---
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/jeyasabari05  
+- LeetCode: https://leetcode.com/u/Jai_17177/  
+- GitHub: https://github.com/Jeyasabari05  
